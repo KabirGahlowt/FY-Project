@@ -8,5 +8,8 @@ This project is a full-stack job portal designed to help clients (households, sm
 
 Traditional job portals in India mainly target white-collar workers or short-term gig services. However, there is a major gap for **long-term employment opportunities** for unskilled or semi-skilled workers. This system is designed to **connect such workers with relevant employers**, even when the workers are not digitally connected.
 
-![Under Development](https://media1.tenor.com/m/pmeERWninhsAAAAd/iron-man-tony-stark.gif)
+## 🚧 Under Development
+
+![Under Development](./assets/under-development.gif)
+
 
